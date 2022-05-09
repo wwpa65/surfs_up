@@ -1,20 +1,16 @@
 # surfs_up
-We will be using Jupiter Notebook, VS Code, and SQLite
-
-
-
-Deliverable 3 Instructions
-
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
-The analysis should contain the following:
-
 
 ## Overview of the analysis:
 
+In this project, we have used Python, Pandas functions and methods, and SQLAlchemy, to analyze weather measurments in a SQLite database. The measurement data table was filtered date informationto retrieve all the temperatures in Hwaii for the months of June and December from data stored inside SQLite database. These data were converted to a list,a DataFrame was created, and the summary statistics were generated.
+
 Explain the purpose of this analysis.
+
+Software used: Jupiter Notebook, VS Code, and SQLite
 ## Results: 
 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+
 ## Summary: 
 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
