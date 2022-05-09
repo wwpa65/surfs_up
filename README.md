@@ -12,11 +12,13 @@ Software used: Jupiter Notebook, VS Code, and SQLite
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
 Link to June temperatures: ![June temperature](Resources/june-temp-dataframe.png)
-ink to June temperature Statistics: ![June temperature](Resources/june-date-temp-stat.png)
+
+ink to June temperature Statistics: ![June temperature](Resources/june-temp-stat.png)
 
 
-Link to December temperatures: ![June temperature](Resources/june_temp_dataframe.png)
-ink to December temperature Statistics: ![June temperature](Resources/dec-temp-dataframe.png)
+Link to December temperatures: ![June temperature](Resources/dec-temp-dataframe.png)
+
+ink to December temperature Statistics: ![June temperature](Resources/dec-temp-stat.png)
 
 ## Summary: 
 
