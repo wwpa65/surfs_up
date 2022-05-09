@@ -56,6 +56,7 @@ We have observed a trend for decrease in temperature for December compared to Ju
 
 ### TWO ADDITIONAL ANALYSIS WAS PERFORMED ON PRECIPITATION FOR JUNE AND DECEMBER.
 
+##JUNE
 
 ![June precipitation](Resources/june-temp-dataframe.png)
 
@@ -65,13 +66,34 @@ We have observed a trend for decrease in temperature for December compared to Ju
 
 **June precipitation Statistics**
 
-![June precipitation](Resources/june-temp-dataframe.png)
+![June precipitation_dates](Resources/june-prcp-dates.png)
+
+**Data frame: December precipitation with dates**
+
+![June precipitation_plot](Resources/june-prcp-plot.png)
+
+**December precipitation plot**
+
+## DECEMBER
+
+![December precipitation](Resources/XX.png)
 
 **Data Frame: December precipitation** 
 
-!December_precipitation_stat](Resources/dec-prcp-stat.png)
+![December  precipitation_stat](Resources/dec-prcp-stat.png)
 
 **December precipitation Statistics**
+
+
+![December precipitation_dates](Resources/dec-prcp-dates.png)
+
+**Data frame: December precipitation with dates**
+
+
+![December precipitation_plot](Resources/dec-prcp-plot.png)
+
+**December precipitation plot**
+
 
 ## Summary: 
 
