@@ -11,8 +11,12 @@ Software used: Jupiter Notebook, VS Code, and SQLite
 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-Link to Jupyter Notebook: ![June temperature](https://github.com/wwpa65/Movies-
+Link to June temperatures: ![June temperature](Resources/june-temp-dataframe.png)
+ink to June temperature Statistics: ![June temperature](Resources/june-date-temp-stat.png)
 
+
+Link to December temperatures: ![June temperature](Resources/june_temp_dataframe.png)
+ink to December temperature Statistics: ![June temperature](Resources/dec-temp-dataframe.png)
 
 ## Summary: 
 
