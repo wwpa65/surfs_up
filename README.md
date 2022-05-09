@@ -11,6 +11,9 @@ Software used: Jupiter Notebook, VS Code, and SQLite
 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
+Link to Jupyter Notebook: ![June temperature](https://github.com/wwpa65/Movies-
+
+
 ## Summary: 
 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
@@ -33,3 +36,5 @@ Results:
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Summary:
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+
+ETL/blob/51d9b45a7ed8d6d5cda1e266268cb4c9ae5e8bff/ETL_clean_wiki_movies.ipynb)
